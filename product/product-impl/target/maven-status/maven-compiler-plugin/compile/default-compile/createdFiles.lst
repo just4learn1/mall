@@ -1,0 +1,8 @@
+mzc\mall\product\daoobject\ProductCategoryDO.class
+mzc\mall\product\dao\ProductCategoryMapper.class
+mzc\mall\product\service\ProductSpuServiceImpl.class
+mzc\mall\product\convert\ProductCategoryConvert.class
+mzc\mall\product\convert\ProductCategoryConvertImpl.class
+mzc\mall\product\config\DatabaseConfiguration.class
+mzc\mall\product\service\ProductCategoryServiceImpl.class
+mzc\mall\product\config\ServiceTipsConfiguration.class

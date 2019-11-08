@@ -1,0 +1,7 @@
+mzc\mall\order\config\DatabaseConfiguration.class
+mzc\mall\order\daoobject\OrderItemDO.class
+mzc\mall\order\service\OrderServiceImpl.class
+mzc\mall\order\convert\OrderItemConvert.class
+mzc\mall\order\convert\OrderItemConvertImpl.class
+mzc\mall\order\bo\OrderItemBO.class
+mzc\mall\order\dao\OrderItemMapper.class
