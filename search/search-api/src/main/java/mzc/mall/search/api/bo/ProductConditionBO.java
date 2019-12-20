@@ -1,0 +1,31 @@
+package mzc.mall.search.api.bo;
+
+import lombok.Data;
+import lombok.experimental.Accessors;
+
+import java.util.List;
+
+/**
+ * create by zhencai.ma on 2019/11/20
+ */
+@Data
+@Accessors(chain = true)
+public class ProductConditionBO {
+    /**
+     * 商品分类数组
+     */
+    private List<Category> categories;
+
+    @Data
+    @Accessors(chain = true)
+    public static class Category{
+        /**
+         * 分类编号
+         */
+        private Integer id;
+        /**
+         * 分类名称
+         */
+        private String name;
+    }
+}

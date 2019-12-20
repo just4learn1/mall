@@ -22,7 +22,6 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class DatabaseConfiguration {
 
     public DatabaseConfiguration(){
-        System.out.println("测试初始化");
     }
 
 //    @Value("${spring.application.name}")
