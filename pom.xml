@@ -40,7 +40,7 @@
 
         <springfox-swagger.version>2.9.2</springfox-swagger.version>
         <seata.version>0.5.1</seata.version>
-        <guava.version>27.0.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
 
         <curator.version>2.13.0</curator.version>
     </properties>
